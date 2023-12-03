@@ -24,6 +24,12 @@ Reinforced HTML and CSS skills, especially in structuring a webpage and applying
 - Experimented with size conditions in media queries, such as setting a maximum width of 630 pixels to trigger the application of a specific style sheet.
 - Emphasized the importance of correctly ordering style sheets to ensure effective cascading and avoid unintended conflicts.
 
+
+
+- HTML5 introduced new semantic elements, such as `<header>`, `<footer>`, `<section>`, and `<aside>`, providing more meaningful structure to web content. These elements enhance code readability and organization compared to generic `<div>` tags.
+- Understanding the concept of "float inherit" in CSS, which influences the behavior of elements in relation to their containing elements.
+- Recognized the importance of specificity in CSS. To override a CSS rule, it is necessary to be equally or more specific in the selector. This understanding is crucial for managing conflicting styles and ensuring desired visual outcomes.
+
 **Code Snippets:**
 ```html
 <!-- HTML -->
@@ -92,6 +98,12 @@ Feeling accomplished with the initial setup. Excited to continue building and en
 The journey into media queries and specificity was both challenging and enlightening.
 It's fascinating how conditional CSS rules can transform the appearance of the website based on screen size.
 Toggling between large and small views provided a valuable hands-on experience, ensuring that design elements appear appropriately at different sizes.
+
+The exploration into HTML5's semantic elements has added a layer of sophistication to code organization. It's rewarding to use elements like `<header>` and `<footer>` to give a clearer structure to web pages.
+
+Understanding "float inherit" provides insights into how elements interact within their containers, contributing to more controlled layouts.
+
+The concept of specificity in CSS is a powerful tool for fine-tuning styles. Being mindful of specificity ensures that style changes are applied where intended without unintentional side effects.
 
 **Collaboration and Communication:**
 Solo development at this stage, no collaboration involved.
