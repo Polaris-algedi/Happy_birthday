@@ -16,3 +16,7 @@ aside.right, aside.left {
 iframe {
   width: 100%;
 }
+
+.contact p {
+  text-align: center;
+}

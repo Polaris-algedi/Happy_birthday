@@ -25,13 +25,15 @@ Reinforced HTML and CSS skills, especially in structuring a webpage and applying
 - Experimented with size conditions in media queries, such as setting a maximum width of 630 pixels to trigger the application of a specific style sheet.
 - Emphasized the importance of correctly ordering style sheets to ensure effective cascading and avoid unintended conflicts.
 
-- Explored the use of iframes in HTML, a versatile element that allows embedding external content seamlessly into a webpage.
-- Specifically, learned how to embed Google Maps into HTML using iframes. This technique enables the integration of dynamic and interactive maps directly within a website.
 
 
 - HTML5 introduced new semantic elements, such as `<header>`, `<footer>`, `<section>`, and `<aside>`, providing more meaningful structure to web content. These elements enhance code readability and organization compared to generic `<div>` tags.
 - Understanding the concept of "float inherit" in CSS, which influences the behavior of elements in relation to their containing elements.
 - Recognized the importance of specificity in CSS. To override a CSS rule, it is necessary to be equally or more specific in the selector. This understanding is crucial for managing conflicting styles and ensuring desired visual outcomes.
+
+
+- Explored the use of iframes in HTML, a versatile element that allows embedding external content seamlessly into a webpage.
+- Specifically, learned how to embed Google Maps into HTML using iframes. This technique enables the integration of dynamic and interactive maps directly within a website.
 
 **Code Snippets:**
 ```html
