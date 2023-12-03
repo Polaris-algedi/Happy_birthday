@@ -20,10 +20,13 @@ Reinforced HTML and CSS skills, especially in structuring a webpage and applying
 - Adapting images to be flexible requires creating discrete divs with unique classes for individual images.
 - Specifying percentages for specific image classes allows for better control over image responsiveness.
 - Explored the concept of specificity in CSS, realizing that choices specified farther down the style sheet override those above them.
+
 - Gained insights into using media queries to conditionally apply CSS rules based on screen size, allowing for responsive design.
 - Experimented with size conditions in media queries, such as setting a maximum width of 630 pixels to trigger the application of a specific style sheet.
 - Emphasized the importance of correctly ordering style sheets to ensure effective cascading and avoid unintended conflicts.
 
+- Explored the use of iframes in HTML, a versatile element that allows embedding external content seamlessly into a webpage.
+- Specifically, learned how to embed Google Maps into HTML using iframes. This technique enables the integration of dynamic and interactive maps directly within a website.
 
 
 - HTML5 introduced new semantic elements, such as `<header>`, `<footer>`, `<section>`, and `<aside>`, providing more meaningful structure to web content. These elements enhance code readability and organization compared to generic `<div>` tags.
@@ -104,6 +107,8 @@ The exploration into HTML5's semantic elements has added a layer of sophisticati
 Understanding "float inherit" provides insights into how elements interact within their containers, contributing to more controlled layouts.
 
 The concept of specificity in CSS is a powerful tool for fine-tuning styles. Being mindful of specificity ensures that style changes are applied where intended without unintentional side effects.
+
+The discovery of iframes as a tool for embedding external content has opened up possibilities for enhancing webpages with dynamic features. Embedding Google Maps adds a valuable layer of interactivity and functionality to the user experience.
 
 **Collaboration and Communication:**
 Solo development at this stage, no collaboration involved.

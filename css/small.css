@@ -1,14 +1,18 @@
 .container {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-  }
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 
 .hero img {
-    border-radius: 0;
+  border-radius: 0;
 }
 
 aside.right, aside.left {
   text-align: center;
   float: inherit;
+}
+
+iframe {
+  width: 100%;
 }
